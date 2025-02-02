@@ -1,0 +1,3 @@
+[submodule "luminoveau"]
+	path = luminoveau
+	url = git@github.com:bXi/luminoveau.git
